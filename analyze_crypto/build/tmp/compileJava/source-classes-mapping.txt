@@ -1,0 +1,24 @@
+com/codeTest/analyze_crypto/utils/Utils.java
+ com.codeTest.analyze_crypto.utils.Utils
+com/codeTest/analyze_crypto/Headers.java
+ com.codeTest.analyze_crypto.Headers
+com/codeTest/analyze_crypto/mappers/HistoryMapper.java
+ com.codeTest.analyze_crypto.mappers.HistoryMapper
+com/codeTest/analyze_crypto/entities/History.java
+ com.codeTest.analyze_crypto.entities.History
+com/codeTest/analyze_crypto/dtos/history/HistoryPutDto.java
+ com.codeTest.analyze_crypto.dtos.history.HistoryPutDto
+com/codeTest/analyze_crypto/dtos/history/HistoryPostDto.java
+ com.codeTest.analyze_crypto.dtos.history.HistoryPostDto
+com/codeTest/analyze_crypto/CsvReader.java
+ com.codeTest.analyze_crypto.CsvReader
+com/codeTest/analyze_crypto/AnalyzeCryptoApplication.java
+ com.codeTest.analyze_crypto.AnalyzeCryptoApplication
+com/codeTest/analyze_crypto/dtos/history/HistoryGetDto.java
+ com.codeTest.analyze_crypto.dtos.history.HistoryGetDto
+com/codeTest/analyze_crypto/repositories/HistoryRepository.java
+ com.codeTest.analyze_crypto.repositories.HistoryRepository
+com/codeTest/analyze_crypto/controllers/HistoryController.java
+ com.codeTest.analyze_crypto.controllers.HistoryController
+com/codeTest/analyze_crypto/services/HistoryService.java
+ com.codeTest.analyze_crypto.services.HistoryService
